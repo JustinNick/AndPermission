@@ -1,4 +1,7 @@
-﻿# AndPermission
+相关csdn博客地址：https://blog.csdn.net/yanzhenjie1003/article/details/52503533
+
+
+# AndPermission
 Simplify the process of requesting permission on Android.
 * Request runtime permissions on Android 6.0 or higher.
 * Share private files on Android 7.0 or higher.
